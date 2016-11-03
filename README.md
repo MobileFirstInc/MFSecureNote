@@ -13,7 +13,7 @@ Features
 
 --
 
-![](./3DTouch.gif)
+![](./Shortcut.gif)
 
 
 How to run
