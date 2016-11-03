@@ -1,0 +1,6 @@
+framework module Pods_Playing_with_TouchID {
+  umbrella header "Pods-Playing with TouchID-umbrella.h"
+
+  export *
+  module * { export * }
+}
